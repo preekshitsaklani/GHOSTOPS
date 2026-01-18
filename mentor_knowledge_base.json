@@ -1,0 +1,37 @@
+[
+  {
+    "id": "m1",
+    "name": "Arjun Vaidya",
+    "bio": "Founder of Dr. Vaidya's (Acquired). Expert in D2C Scaling and Brand building.",
+    "outcomes": "Scaled to \u20b9100Cr ARR",
+    "link": "https://expertbells.com/mentor/arjun"
+  },
+  {
+    "id": "m2",
+    "name": "Pallav Nadhani",
+    "bio": "Founder of FusionCharts. Bootstrapping expert and SaaS Product-Market Fit.",
+    "outcomes": "Bootstrapped to Exit",
+    "link": "https://expertbells.com/mentor/pallav"
+  },
+  {
+    "id": "m3",
+    "name": "Ankur Warikoo",
+    "bio": "Founder Nearbuy. Expert in Content Growth and Fundraising storytelling.",
+    "outcomes": "Raised Series B+",
+    "link": "https://expertbells.com/mentor/ankur"
+  },
+  {
+    "id": "m4",
+    "name": "Ghazal Alagh",
+    "bio": "Mamaearth Co-founder. Expert in Consumer behavior and IPO readiness.",
+    "outcomes": "Unicorn Scale",
+    "link": "https://expertbells.com/mentor/ghazal"
+  },
+  {
+    "id": "m5",
+    "name": "Sanjeev Bikhchandani",
+    "bio": "Founder Info Edge. Deep expertise in early stage validation and hiring.",
+    "outcomes": "Built Naukri/Zomato",
+    "link": "https://expertbells.com/mentor/sanjeev"
+  }
+]

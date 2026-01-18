@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ClarityOS Demo Stage</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #f3f4f6; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; color: #333; }
+        .content { text-align: center; max-width: 600px; padding: 20px; }
+        h1 { color: #2563EB; font-size: 2.5rem; margin-bottom: 10px; }
+        p { font-size: 1.1rem; color: #666; }
+        .card { background: white; padding: 2rem; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin-top: 20px; }
+        .instructions { text-align: left; background: #e0e7ff; padding: 15px; border-radius: 8px; margin-top: 20px; font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>ExpertBells Staging</h1>
+        <p>This page simulates the ExpertBells platform.</p>
+        
+        <div class="card">
+            <h2>ClarityOS Integration Test</h2>
+            <p>The AI Widget should appear in the bottom-right corner.</p>
+        </div>
+
+        <div class="instructions">
+            <strong>Test Scenarios:</strong>
+            <ol>
+                <li>Click the blue ⚡ button to open.</li>
+                <li>Type <em>"I need to raise Series A"</em> to test the Gatekeeper.</li>
+                <li>Click <strong>📝 Analyze Session</strong> and paste a transcript to test Scribe.</li>
+            </ol>
+        </div>
+    </div>
+
+    <!-- Inject Widget -->
+    <script src="widgest_loader.js"></script>
+</body>
+</html>
